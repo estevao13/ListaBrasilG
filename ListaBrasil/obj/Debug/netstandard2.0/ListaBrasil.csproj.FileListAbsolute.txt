@@ -1,0 +1,13 @@
+/Users/macbook/Projects/ListaBrasil/ListaBrasil/obj/Debug/netstandard2.0/ListaBrasil.csprojAssemblyReference.cache
+/Users/macbook/Projects/ListaBrasil/ListaBrasil/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/macbook/Projects/ListaBrasil/ListaBrasil/obj/Debug/netstandard2.0/Estados.xaml.g.cs
+/Users/macbook/Projects/ListaBrasil/ListaBrasil/obj/Debug/netstandard2.0/Municipios.xaml.g.cs
+/Users/macbook/Projects/ListaBrasil/ListaBrasil/obj/Debug/netstandard2.0/ListaBrasil.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/ListaBrasil/ListaBrasil/obj/Debug/netstandard2.0/ListaBrasil.AssemblyInfoInputs.cache
+/Users/macbook/Projects/ListaBrasil/ListaBrasil/obj/Debug/netstandard2.0/ListaBrasil.AssemblyInfo.cs
+/Users/macbook/Projects/ListaBrasil/ListaBrasil/bin/Debug/netstandard2.0/ListaBrasil.deps.json
+/Users/macbook/Projects/ListaBrasil/ListaBrasil/bin/Debug/netstandard2.0/ListaBrasil.dll
+/Users/macbook/Projects/ListaBrasil/ListaBrasil/bin/Debug/netstandard2.0/ListaBrasil.pdb
+/Users/macbook/Projects/ListaBrasil/ListaBrasil/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/macbook/Projects/ListaBrasil/ListaBrasil/obj/Debug/netstandard2.0/ListaBrasil.dll
+/Users/macbook/Projects/ListaBrasil/ListaBrasil/obj/Debug/netstandard2.0/ListaBrasil.pdb
